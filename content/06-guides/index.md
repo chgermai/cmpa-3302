@@ -1,8 +1,7 @@
 ---
 title: Guides
 ---
-## Home Automation Guides 
-### Overview
+## Overview 
 This section provides how-to guides and directions for solutions I have completed. 
  
 
