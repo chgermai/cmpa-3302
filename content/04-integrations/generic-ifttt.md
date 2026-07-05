@@ -1,0 +1,3 @@
+---
+title: Generic IFTTT Integration
+---
