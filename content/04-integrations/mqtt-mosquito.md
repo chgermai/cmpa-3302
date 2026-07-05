@@ -1,3 +1,0 @@
----
-title: Mosquito MQTT Integration
----

@@ -5,8 +5,8 @@ title: Integrations
 This covers the integrations used to interface with other 3rd party services and custom APIs.
  
 ## Pages in This Section
-- [[mqtt-mosquito|Mosquito MQTT Integration]]
+- [[wiz-connected|WiZ Connected Lighting]]
 - [[weather-api|OpenWeatherMap API Integration]]
 - [[lutron-caseta|Lutron Caseta Integration]]
-- [[node-red|Node-RED Pool Automation Integration]]
+- [[node-red-pool-automation|Node-RED Pool Automation Integration]]
 - [[generic-ifttt|Generic IFTTT Integration]]
