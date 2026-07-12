@@ -1,6 +1,7 @@
 ---
 title: WiZ Connected Lighting
 ---
+![[wiz-logo-small.svg]]
 ## Overview
 I moved to Wiz bulbs after some pain with the original Tuya bulbs I used. I found them easier to use and setup then Tuya and they were widely available in stores and online.  Home Assistant has the ability to natively discover and control WiZ bulbs on the local network. 
 ### Local Discovery

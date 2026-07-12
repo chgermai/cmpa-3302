@@ -13,3 +13,7 @@ My Caseta setup covers two types of devices:
 2. Fan speed controls in the bedrooms, patio, and sunroom.
 ### Why Local Connectivity Matters
 Because the bridge and HA communicate locally, Caseta switches keep working even during an internet outage.  It is one of the reasons I decided to mix Caseta switches into my automation system.
+### Manufacturer Installation Instructions 
+
+![[caseta-advanced-instructions.pdf#page=1]]
+*Downloaded on 2026-07-11 from https://assets.lutron.com/a/documents/0301710_caseta_advanced_instructions.pdf.*
