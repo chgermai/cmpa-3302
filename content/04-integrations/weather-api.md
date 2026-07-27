@@ -1,5 +1,6 @@
 ---
 title: OpenWeatherMap API Integration
+date: 2026-07-21
 ---
 ## Overview
 Many of the automation I run depend on the conditions outside the house and weather is an important factor to consider.  The pool automations are probably the most critical aspect.  I integrated a free OpenWeatherMap into [[02-platforms/index|Home Assistant]] so automations can be based on conditions like temperature, wind, and forecasted rain.

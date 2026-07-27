@@ -1,5 +1,6 @@
 ---
 title: "Analyzing an Organizing System: Home Assistant Integrations Directory"
+date: 2026-07-21
 ---
 # Analyzing an Organizing System: Home Assistant Integrations Directory
 

@@ -11,7 +11,7 @@ Four ecobee thermostats handle climate control across my home's HVAC zones. They
 ### How Many, and Where
 Four ecobee devices are deployed across the house's HVAC zones, each exposed to Home Assistant as its own climate entity with associated temperature and humidity sensors.
 ### Working With Standalone Sensors
-The ecobee thermostats' zone-level readings are complemented by the [[climate-sensors|standalone climate and occupancy sensors]] placed in specific rooms like the Game Room and Master Bedroom, giving automations a more granular view than the thermostat alone provides.
+The ecobee thermostats' zone-level readings are complemented by standalone climate and occupancy sensors placed in specific rooms like the Game Room and Master Bedroom, giving automations a more granular view than the thermostat alone provides.
 ### Related Reading
 - [[../04-integrations/ecobee-integration|ecobee Integration]]
 

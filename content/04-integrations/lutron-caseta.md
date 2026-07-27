@@ -1,5 +1,6 @@
 ---
 title: Lutron Caseta Integration
+date: 2026-07-21
 ---
 ## Overview
 I utilize the Lutron Caseta system to extend lighting and fan control to many different locations in my house.   The Caseta systems uses a bridge to establish communications to the various switches in the deployment. [[02-platforms/index|Home Assistant]] communicates directly to the Caseta bridge over the local network.

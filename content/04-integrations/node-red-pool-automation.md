@@ -1,5 +1,6 @@
 ---
 title: Node-RED Pool Automation Integration
+date: 2026-07-21
 ---
 ## Overview
 The pool is the one automation systems in the house that isn't controlled through Home Assistant.  The whole system runs as a dedicated Node-RED flow. Node-RED is a flow-based programming tool the works well at gather inputs and making logical decisions. 

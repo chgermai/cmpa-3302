@@ -1,5 +1,6 @@
 ---
 title: Generic IFTTT Integration
+date: 2026-07-21
 ---
 ## Overview
 IFTTT (If This Then That) is a catch-all integration for connecting services that don't have a native [[02-platforms/index|Home Assistant]] integration.  I also use it for devices I only need to touch occasionally and building a custom integration isn't worth the effort. It works on simple logic.  A trigger from one service ("this") fires an action in another service ("that").

@@ -1,5 +1,6 @@
 ---
 title: WiZ Connected Lighting
+date: 2026-07-21
 ---
 ![[wiz-logo-small.svg]]
 ## Overview

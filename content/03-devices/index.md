@@ -1,5 +1,6 @@
 ---
 title: Devices
+date: 2026-07-21
 ---
 ## Overview 
 This covers the physical devices used, for example, sensors, switches, and lights.

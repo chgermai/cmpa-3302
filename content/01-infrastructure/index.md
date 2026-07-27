@@ -1,5 +1,6 @@
 ---
 title: Infrastructure
+date: 2026-07-21
 ---
 ## Overview 
 This covers the infrastructure built to support the solution including, compute, networking, cloud services, and local brokers.
